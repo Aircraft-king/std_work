@@ -1,0 +1,4 @@
+﻿  test.c
+f:\比特\7_24\7_24\test.c(21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\比特\7_24\7_24\test.c(50): warning C4244: “+=”: 从“double”转换到“unsigned int”，可能丢失数据
+  7_24.vcxproj -> F:\比特\7_24\Debug\7_24.exe
